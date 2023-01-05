@@ -7,3 +7,8 @@ Javascript is used by programmers across the world to create dynamic and interac
 
 # 3D-Boxes-
 In this project I had use the HTML, CSS and java script where we represent the gif in the form of moving 3D boxes 
+
+# Output
+![image](https://user-images.githubusercontent.com/92366815/210838535-6165fecc-f1ba-4e8f-ba75-08bddc088962.png)
+![image](https://user-images.githubusercontent.com/92366815/210838601-da2ce142-841a-4af3-9a63-3ef9b7c704ad.png)
+
